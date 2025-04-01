@@ -1,0 +1,5 @@
+#Tempfiles
+*.csv
+*.zip
+*.log
+__pycache__/
